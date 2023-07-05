@@ -61,8 +61,8 @@ public class CanvasView extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-        mPath.moveTo(0,565);
-        mPath.lineTo(768,565);
+     //   mPath.moveTo(0,565);
+     //   mPath.lineTo(768,565);
 
         //565 for Huawei //640 for samsung
         canvas.drawPath(mPath, mPaint);
