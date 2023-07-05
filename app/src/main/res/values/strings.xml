@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Data Collection</string>
+    <array name="Cities">
+        <item>--Current Location--</item>
+        <item>Islamabad</item>
+        <item>Lahore</item>
+        <item>Karachi</item>
+        <item>Multan</item>
+        <item>Peshawar</item>
+        <item>Quetta</item>
+        <item>Skardu</item>
+        <item>Gilgit</item>
+        <item>Muzafarabad</item>
+
+    </array>
+</resources>
